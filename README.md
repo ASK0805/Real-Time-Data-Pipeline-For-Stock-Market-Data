@@ -1,4 +1,11 @@
 # Real-Time Data Pipeline | Stock-Market Data
+
+## Introduction :
+This project focuses on building a real-time data pipeline, leveraging Python for data extraction and Kafka for data transfer to the desired storage location. We utilize AWS Glue Catalog to organize and manage metadata, and Amazon Athena to efficiently query and analyze the data. The goal is to create a seamless and automated pipeline that ensures data is processed and available in near real-time for analysis and decision-making.
+
+## Architecture Diagram :
+![Project Architecture](Architecture.jpg)
+
 Tools Used : Python, Apache kafka, AWS, S3, Glue, Athena
 
 ## Problem Statement : 

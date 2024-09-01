@@ -6,7 +6,14 @@ This project focuses on building a real-time data pipeline, leveraging Python fo
 ## Architecture Diagram :
 ![Project Architecture](Architecture.jpg)
 
-Tools Used : Python, Apache kafka, AWS, S3, Glue, Athena
+## Technology Used : 
+1. Programming language : Python
+2. Scripting language : SQL
+3. Aamazon Web Services :
+	- Apache kafka
+	- S3
+	- Glue
+	- Athena
 
 ## Problem Statement : 
 In this project, we aim to develop a data pipeline that transfers data from our source, a stock market API, to our destination, an S3 bucket. After the data is stored, we plan to perform analysis on it using SQL.

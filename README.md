@@ -15,6 +15,12 @@ This project focuses on building a real-time data pipeline, leveraging Python fo
 	- Glue
 	- Athena
 
+## Dataset Used :
+Stock Market Data
+here we have stock-market data which have date, opening Price, High Price, Low Price, Close Price, Volume.
+
+
+
 ## Problem Statement : 
 In this project, we aim to develop a data pipeline that transfers data from our source, a stock market API, to our destination, an S3 bucket. After the data is stored, we plan to perform analysis on it using SQL.
 
